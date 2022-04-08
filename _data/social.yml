@@ -1,0 +1,7 @@
+- title: Email
+  url: mailto://ctm0522@gmail.com
+  icon: fas fa-envelope
+  
+- title: GitHub
+  url: https://github.com/v5ql
+  icon: fab fa-github
